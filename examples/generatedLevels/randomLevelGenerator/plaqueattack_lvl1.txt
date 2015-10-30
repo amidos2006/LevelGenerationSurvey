@@ -1,0 +1,22 @@
+LevelMapping
+    A > avatar 
+    b > burger 
+    B > burgerhole 
+    w > wall 
+    h > hotdog 
+    H > hotdoghole 
+    M > fullMolarSup 
+    m > fullMolarInf 
+
+LevelDescription
+bM hMh HmwmM
+wH  B wHwh  
+bh hH   hHh 
+ b B  HmBb  
+M Hm bH bwbM
+  w B mm  wm
+BH   M b AHm
+w   mw m    
+Hmm  m HM   
+b BHww h bwh
+  Mm   hmmh 

@@ -1,0 +1,25 @@
+LevelMapping
+    0 > power 
+    A > hungry 
+    1 > redspawn bluespawn pinkspawn orangespawn red blue pink orange 
+    F > fruit 
+    w > wall 
+    . > pellet 
+
+LevelDescription
+F.10 1...  .1 1
+     .  F. wA1F
+0 ww..F0.0F0 .F
+w.F  1.  w.. 1 
+w1  0  1ww0w0 w
+w0F 0011001 w10
+1 w  F .   1.01
+ 1FFw. 1  .11 .
+ww wF1  01 .F0.
+1. FF .    ..1F
+0 0F .  FF1 00 
+  00.  F011.  F
+w1. w1 F F1 F  
+ .   F.1  0w0 0
+0  FF0w w. 00 F
+0F 0..  .F  1w 

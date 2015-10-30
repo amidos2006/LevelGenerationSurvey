@@ -1,0 +1,11 @@
+LevelMapping
+    A > avatar 
+    t > trap 
+    w > wall 
+    X > exit 
+
+LevelDescription
+  AX
+wtX 
+twtw
+X   

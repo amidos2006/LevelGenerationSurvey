@@ -1,0 +1,24 @@
+LevelMapping
+    @ > crate white 
+    A > avatar white 
+    B > avatar black 
+    t > target black 
+    U > target white 
+    w > wall 
+    g > grey 
+    * > crate black 
+    + > white 
+    . > black 
+
+LevelDescription
++ . @..tU@g+
+*.wU @   U+ 
+. g@*++*@.  
+@.t*   @tt. 
+ w    @@  +g
+@+w .@*tg * 
+t ww*@ +@  U
+   g    Ugwg
+ A  +  .g*+ 
+   wt**w@U@.
+*. .@  .   .

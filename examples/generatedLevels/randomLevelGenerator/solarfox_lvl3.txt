@@ -1,0 +1,22 @@
+LevelMapping
+    p > powerblib 
+    A > avatar 
+    1 > btm enemyground 
+    b > blib 
+    2 > top enemyground 
+    w > wall 
+    . > enemyground 
+
+LevelDescription
+p  2wp p p b
+2. bp2p1 b w
+  ..   pw.w.
+ b ww .A2w 1
+p  w2 .  2b 
+ . .p bb 1 1
+bw1p bw..pp 
+ b  12.w.. 2
+.ww    2 pb2
+ 1b 11 w    
+2.  b    .  
+ ww2  wbb2 2

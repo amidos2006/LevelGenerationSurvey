@@ -1,0 +1,14 @@
+LevelMapping
+    A > avatar 
+    c > city 
+    f > incoming_fast 
+    w > wall 
+    m > incoming_slow 
+
+LevelDescription
+wcmf w
+ ww cc
+w mfm 
+ wcww 
+   w A
+m f wf

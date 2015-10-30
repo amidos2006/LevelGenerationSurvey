@@ -1,0 +1,15 @@
+LevelMapping
+    0 > seed 
+    A > avatar 
+    1 > escape 
+    w > wall 
+    H > water 
+
+LevelDescription
+0   10 
+01 10H 
+wH101 w
+ 1HH  w
+1 0Hw1 
+  11110
+w  0 HA

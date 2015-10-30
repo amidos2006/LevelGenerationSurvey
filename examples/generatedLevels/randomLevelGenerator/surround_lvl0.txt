@@ -1,0 +1,15 @@
+LevelMapping
+    A > avatar grass 
+    1 > dog mud 
+    w > wall 
+    . > snow 
+
+LevelDescription
+ .. 1 .
+111  w 
+ .  . 1
+. w .. 
+ ..w w 
+1 .  . 
+1A1w w1
+ w .. w

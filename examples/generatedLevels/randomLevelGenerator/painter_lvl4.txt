@@ -1,0 +1,15 @@
+LevelMapping
+    A > avatar ground 
+    w > wall 
+    x > paint 
+    . > ground 
+
+LevelDescription
+.    xw  
+ w   w..w
+. w    w 
+xw xxw. x
+ wA    .w
+.ww.x.wx.
+ww w.x xw
+xx.. w  w

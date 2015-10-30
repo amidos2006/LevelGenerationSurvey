@@ -1,0 +1,15 @@
+LevelMapping
+    A > avatar ground 
+    w > wall 
+    * > box ground 
+    . > ground 
+    O > hole 
+
+LevelDescription
+...O Ow
+.* ..w 
+   w   
+.*w  *O
+*AO*Ow 
+.ww.* O
+O. w  *

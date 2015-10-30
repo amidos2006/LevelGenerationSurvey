@@ -1,0 +1,9 @@
+<html>
+	<div align="center">
+		This is a testing software which compares different Level Generators.<br/>
+		This is a part of study of General Level Generators for VGDL.<br/>
+		<br/>
+		Play a tutorial level, then two randomly generated levels and then complete a survey question.<br/>
+		Try to play 10 levels at least.
+	</div>
+</html>

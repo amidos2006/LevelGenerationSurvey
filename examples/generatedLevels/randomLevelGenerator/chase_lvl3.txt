@@ -1,0 +1,11 @@
+LevelMapping
+    0 > scared 
+    A > avatar 
+    w > wall 
+
+LevelDescription
+w0w w
+  A0w
+w0ww0
+w000 
+w w w

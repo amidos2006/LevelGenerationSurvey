@@ -1,0 +1,24 @@
+LevelMapping
+    A > avatar marsh 
+    T > tomb 
+    w > wall 
+    G > goal 
+    h > slowHell 
+    H > fastHell 
+    x > marsh 
+    Z > zombie 
+
+LevelDescription
+wx wG Z G wwGG
+HTxZx      w h
+  h    G T Hx 
+xG  wGH  xZ   
+ HHG  hHTG ZZH
+ Z xwT Z w xwT
+Hwh  GZ GT  HZ
+THTZZ x H hT  
+x  ZZ    H HGT
+xhZTxZh HGZh  
+hTGT h  Hxw  Z
+   GTG wGZ TTZ
+ ZwwwT GA  ZHx

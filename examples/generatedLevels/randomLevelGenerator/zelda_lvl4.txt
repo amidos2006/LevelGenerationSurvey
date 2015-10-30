@@ -1,0 +1,21 @@
+LevelMapping
+    A > nokey 
+    1 > monsterQuick 
+    2 > monsterNormal 
+    3 > monsterSlow 
+    w > wall 
+    G > goal 
+    + > key 
+
+LevelDescription
+ G w3  2G 
+   wGw A1 
+13G  3++ 2
++ 21G+w  3
+2++wG1+32w
++ 3w32  3 
+G +G+w 311
+w2 wGw 2 w
+  222 2 w 
+3  213+++ 
+G3  G G2  

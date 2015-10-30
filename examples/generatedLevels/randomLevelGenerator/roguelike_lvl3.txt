@@ -1,0 +1,27 @@
+LevelMapping
+    P > phantom 
+    A > avatar 
+    s > weapon 
+    S > spider 
+    w > wall 
+    g > gold 
+    X > exit 
+    h > health 
+    k > key 
+    l > lock 
+    m > market 
+
+LevelDescription
+s XwklPPP hPs 
+S  lgwlw w hsw
+ SP XXP   mS h
+llPlSPs  k    
+P lSs P S kkwm
+mllm  kl glg  
+  wg w hml m  
+     S Swlgk  
+lhsS  Ph s P g
+gX   h k hwPgm
+mwl kll  h  hk
+ gkgmSAhXkghwh
+wX SkSSs     s

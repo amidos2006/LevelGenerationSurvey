@@ -1,0 +1,21 @@
+LevelMapping
+    0 > gem 
+    A > avatar 
+    1 > gold 
+    E > entrance 
+    w > wall 
+    M > monster 
+
+LevelDescription
+ 0   E0     
+Ew M0 1 wEwE
+  E 0 11  MM
+Aww  1 ww0  
+  1E1 00EM1E
+ 0ww1E 11Eww
+ wM wMM0 1 0
+0 wME0E  1 0
+E1M M  1 1Ew
+ 0wEE1w01EwM
+ M1M  wM EM0
+ E1E M 1w ME

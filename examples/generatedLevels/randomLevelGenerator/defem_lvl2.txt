@@ -1,0 +1,28 @@
+LevelMapping
+    A > avatar 
+    a > avatar cannon 
+    r > spawnRandom cannon 
+    c > spawnChase cannon 
+    f > spawnHorzD cannon 
+    v > spawnHorzU cannon 
+    w > wall 
+    x > spawnHorzL cannon 
+    z > spawnHorzR cannon 
+    . > cannon 
+
+LevelDescription
+  rr .z cw v v.
+fz  c v xvc.xfv
+ fw  x  wwxrwf 
+.x c   c .cx.  
+  v xw  xwzr xv
+ cwzr  x   ffc 
+xz   .r xfwxv  
+czz z..rv.rc   
+.A    .  x rwww
+. ffrxcv r fff 
+cx f  c r.xv wr
+vc xr  cfx vfz 
+ c  ..v fzx r x
+z vx. xcx  fvwv
+rwr .  rcwc . x

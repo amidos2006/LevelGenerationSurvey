@@ -1,0 +1,21 @@
+LevelMapping
+    A > avatar 
+    1 > piranhahole 
+    2 > whalehole 
+    3 > sharkhole 
+    w > wall 
+
+LevelDescription
+ 3w22w233  
+ 12 21 1  1
+2w322 w2w  
+A3w w   133
+32333 3 322
+2w w ww 3 3
+  2w 22 331
+ 13w11     
+ 11w333w112
+w  ww 21www
+1  ww1w2132
+  2 112w2 1
+3 w2w   2 1

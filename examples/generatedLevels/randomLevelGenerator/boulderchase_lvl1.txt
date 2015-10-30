@@ -1,0 +1,20 @@
+LevelMapping
+    A > avatar 
+    b > butterfly 
+    c > crab 
+    E > exitdoor 
+    w > wall 
+    x > diamond 
+    . > dirt 
+    o > boulder 
+
+LevelDescription
+wbc  bbc w
+     .E cx
+ bb  .   w
+ o co wc  
+E  .wExcAx
+w Exw bbEw
+   xb coxc
+xbcooxwEbc
+ .bw cE . 

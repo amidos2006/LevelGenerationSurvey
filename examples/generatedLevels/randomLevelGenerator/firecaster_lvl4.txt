@@ -1,0 +1,19 @@
+LevelMapping
+    A > avatar health 
+    b > box 
+    w > wall 
+    G > goal 
+    . > mana 
+
+LevelDescription
+. Abb.bGb.
+ .bw w. Gw
+G. Gbb.wGG
+.w w.G b .
+G w.bb.  G
+. Gwb G   
+. wbGw b b
+ b .. wG w
+bb  . G Gb
+.   G.Gbww
+wGGG  w.. 

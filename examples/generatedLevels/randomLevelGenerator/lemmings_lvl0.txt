@@ -1,0 +1,15 @@
+LevelMapping
+    A > avatar 
+    E > entrance 
+    w > wall 
+    X > exit 
+    h > hole 
+
+LevelDescription
+ EXEE  A
+hEEhw Xw
+X X h  X
+Ewwwhh h
+ hE  w  
+ E  wXw 
+E EwE EE

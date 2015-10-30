@@ -1,0 +1,22 @@
+LevelMapping
+    A > avatar 
+    r > red 
+    b > blue 
+    D > door 
+    E > exit 
+    w > wall 
+    g > green 
+    K > key 
+    O > boulder 
+
+LevelDescription
+w   bw  bE  
+  rEO gEbO g
+rKK  r gw  A
+ r EwOgwDgrK
+rD  D  gw  D
+DE rEgD    D
+O r  w bEgwb
+OrrDgrEDrDEw
+Ow wE   EgD 
+b K b gg gbK

@@ -1,0 +1,14 @@
+LevelMapping
+    A > avatar 
+    R > rock 
+    w > wall 
+    . > ground 
+
+LevelDescription
+..RR..
+wR    
+  AR  
+      
+RR wwR
+.RwwRw
+ wRR .

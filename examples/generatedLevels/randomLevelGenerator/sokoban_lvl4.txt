@@ -1,0 +1,11 @@
+LevelMapping
+    0 > hole 
+    A > avatar 
+    1 > box 
+    w > wall 
+
+LevelDescription
+01w 
+A0w0
+ww1w
+ 1w 

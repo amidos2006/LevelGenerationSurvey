@@ -1,0 +1,17 @@
+LevelMapping
+    A > avatar 
+    s > slowChicken 
+    c > fastChicken 
+    t > trunk 
+    w > wall 
+
+LevelDescription
+  wtc     
+c wc t wws
+c w w   s 
+  stswc   
+tw  cw t c
+st  tc  tc
+ s tsc css
+scw s   Ac
+w    wtccc

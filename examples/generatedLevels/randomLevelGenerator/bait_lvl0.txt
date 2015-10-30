@@ -1,0 +1,22 @@
+LevelMapping
+    0 > hole 
+    A > avatar 
+    1 > box ground 
+    w > wall 
+    G > goal 
+    K > key ground 
+    M > mushroom ground 
+    . > ground 
+
+LevelDescription
+K0w   K wM 
+K K0..MMwM 
+M  0w   M1 
+ K 0w . 1 1
+M K 11 . GK
+0     . w M
+.K1     GK 
+ G KA0MG   
+. G. M1K  K
+1G MMG11.  
+  . KwK M. 

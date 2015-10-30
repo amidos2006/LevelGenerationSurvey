@@ -1,0 +1,26 @@
+LevelMapping
+    A > avatar 
+    r > random 
+    v > vertical 
+    w > wall 
+    G > goal 
+    h > horizontal 
+    x > sitting 
+    i > entry1 
+    I > entry2 
+    o > exit1 
+    O > exit2 
+
+LevelDescription
+o x oIIwv r 
+     G  i  r
+ I wIr  xiwO
+w O oOh w hI
+i  I  i wxO 
+ I v hII hv 
+    v  G  Io
+A   G wG x v
+   xrx ri  r
+hGIivoIOx vO
+  hivI GGG G
+vxr   I ror 

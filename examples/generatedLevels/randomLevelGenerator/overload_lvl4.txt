@@ -1,0 +1,18 @@
+LevelMapping
+    0 > gold 
+    A > avatar 
+    1 > random 
+    S > weapon 
+    w > wall 
+    G > goal 
+    . > marsh 
+
+LevelDescription
+ .   S.1.
+0S 0GS .G
+    .S0S0
+w   .AwS.
+   w w0S0
+0G wS.  w
+ 0GGS 1  
+w w 1 1 w

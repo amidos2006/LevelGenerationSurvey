@@ -1,0 +1,14 @@
+LevelMapping
+    p > avatar 
+    A > avatar 
+    c > box 
+    w > wall 
+    x > water 
+    o > door 
+
+LevelDescription
+    p
+cx x 
+c wow
+   cx
+   cc

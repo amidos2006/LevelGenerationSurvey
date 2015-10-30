@@ -1,0 +1,24 @@
+LevelMapping
+    0 > eastfacing 
+    A > moving 
+    1 > southfacing 
+    2 > northfacing 
+    3 > westfacing 
+    w > wall 
+    G > goal 
+    . > water 
+
+LevelDescription
+3 22..02w  . 0
+  031 0. . G .
+12302.11  2 G 
+00 33 . 022320
+   w3   3210  
+1w.3  0 w1.0.2
+11   .2  2 G2w
+ 12  G10G 2  1
+.  30   333G11
+ 21.G.2G .01 w
+12  .0G 3  3G2
+  w.0w 1      
+G G A01  3 .1 

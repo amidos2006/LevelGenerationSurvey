@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<data>
+    <pacman>Big diamonds make you eat ghosts.
+        Avoid Ghosts.
+        Goal: Collect all diamonds and fruits.
+        
+        Arrows to Move.</pacman>
+    <frogs>Avoid water and cogs.
+        Use Wood to cross water.
+        Goal: Go to the exit sign.
+        
+        Arrows to Move.</frogs>
+    <sokoban>Push boxes by moving into them.
+        Goal: Destroy all boxes by pushing them into holes.
+        
+        Arrows to Move.</sokoban>
+    <zelda>Kill monsters using your sword.
+        Get the key.
+        Goal: Go towards the exit sign while having a key.
+        
+        Arrows to Move. 
+        Space to use sword in the avatar's direction.</zelda>
+</data>

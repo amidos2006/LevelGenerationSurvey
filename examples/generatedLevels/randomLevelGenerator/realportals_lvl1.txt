@@ -1,0 +1,29 @@
+LevelMapping
+    A > avatarIn weapon 
+    t > weaponToggle1 
+    T > weaponToggle2 
+    w > wall 
+    G > goal 
+    k > key 
+    l > lock 
+    . > water 
+    O > boulder 
+
+LevelDescription
+ w Gk Tw  w   Ol T
+  GG  wOOT   tTG  
+l OG wOk wTl  .   
+w lT AGl t. tl w.l
+wTlGG wO ll   kk  
+w k l .k w Twtk.Tw
+.. OG  wGw t t .T 
+ wt O   l  tk   w 
+klG GG O tlTw  .tl
+ l   T wk G kG.t  
+ TGT  . TlT kt .  
+tOk. Tk  Gl.  w w 
+lt  k   G O   k. w
+    G   tG T O.lkO
+ GlOO kw .   l  w 
+ Tt l Tkw .  ll.TO
+wOtG G   Gw O wwT 

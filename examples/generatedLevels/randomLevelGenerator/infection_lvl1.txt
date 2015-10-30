@@ -1,0 +1,18 @@
+LevelMapping
+    0 > host 
+    A > normal 
+    1 > guardian 
+    E > entrance 
+    w > wall 
+    X > virus 
+
+LevelDescription
+EX0E  wX 1w
+1 1  E01 1 
+ wwE 1 X w1
+ A E0E1 wXw
+E E 01w0   
+ XE0 E   w 
+1  1X0 X Ew
+0  E   www0
+E w 1X01  X

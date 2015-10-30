@@ -1,0 +1,31 @@
+LevelMapping
+    0 > hole 
+    A > avatar 
+    B > box 
+    R > lcright 
+    C > boulder 
+    D > lcdown 
+    U > lcup 
+    w > wall 
+    G > goal 
+    L > lcleft 
+
+LevelDescription
+  Dw G  LG  Rw0RR 
+Cw  wR0    G  B R 
+BUC  R0R w  0RDB0R
+Gw  R CR RBL UDRC 
+GBUL   BLw G  0   
+L  R G 0 L  UR BC 
+R   LC G ULG  w DU
+ LULCDBBDUL LBL D 
+  CBwRG U GBGUB0 w
+RRUGRBD  L A  wBU 
+ wLw  Gw G  G  L  
+BLUUCLw   G ULU0CU
+B0 G  UBDCw D CBU 
+   L 0RGR   G0wL w
+  B    DBwL0D G 0L
+ URUD  L CR    wU 
+ U  U 0B w Dw0LDB 
+ B 0  DC  GG CG 0U

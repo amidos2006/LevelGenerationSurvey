@@ -1,0 +1,27 @@
+LevelMapping
+    A > avatar 
+    R > randomCamel 
+    S > slowR 
+    s > slowL 
+    F > fastR 
+    f > fastL 
+    w > wall 
+    G > goal 
+    M > mediumR 
+    m > mediumL 
+
+LevelDescription
+G    RfRfGs F 
+mFG mm  wmMf  
+  sm R G  fmSw
+  wmwsRM M MG 
+FmRm  Rfs    F
+R wM GGG Mm RS
+SMSf RwSGF  S 
+G   S S M GRs 
+RsmGM S fFRGwG
+fGM    RmSm RR
+s M  MF  Gw   
+   M  RFM GFm 
+fmRwsw FSS F  
+ fsRM     smMA

@@ -1,0 +1,14 @@
+LevelMapping
+    p > avatar 
+    A > avatar 
+    c > box 
+    w > wall 
+    x > water 
+    o > door 
+
+LevelDescription
+xwocx
+   c 
+  Aow
+oo w 
+wco  

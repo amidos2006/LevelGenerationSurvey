@@ -1,0 +1,19 @@
+LevelMapping
+    0 > flower 
+    A > avatar 
+    1 > slowHell 
+    2 > fastHell 
+    w > wall 
+    - > zombie 
+    . > honey 
+
+LevelDescription
+ -.2w2 w
+01..0   
+20. 2 . 
+1.  1 . 
+0 w     
+w 1--.0 
+-2w.0- -
+- 1   . 
+2w.1- A 

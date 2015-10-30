@@ -1,0 +1,15 @@
+LevelMapping
+    0 > wide 
+    A > avatar 
+    1 > tight 
+    2 > cat 
+    w > wall 
+
+LevelDescription
+2w    0
+00 w   
+  w1A  
+001    
+0w   2w
+221220w
+1012 1w

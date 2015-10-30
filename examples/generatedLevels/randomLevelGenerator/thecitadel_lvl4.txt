@@ -1,0 +1,19 @@
+LevelMapping
+    0 > roundhole 
+    A > avatar 
+    1 > squarehole 
+    B > boulder 
+    C > crate 
+    w > wall 
+    G > goal 
+
+LevelDescription
+1B CGCBw B
+ G0 B   CB
+ 1w 0 G 0w
+B11  00   
+G Gw 0 BBB
+ CwA 10w1 
+wB 1 0  GC
+  10Bw   B
+ CBCG C C 

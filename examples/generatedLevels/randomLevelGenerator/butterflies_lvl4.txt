@@ -1,0 +1,11 @@
+LevelMapping
+    0 > cocoon 
+    A > avatar 
+    1 > butterfly 
+    w > wall 
+
+LevelDescription
+0w w
+11w 
+1A01
+  11

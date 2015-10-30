@@ -1,0 +1,28 @@
+LevelMapping
+    A > air avatar crew 
+    a > sky 
+    1 > sharkhole 
+    2 > whalehole 
+    3 > normaldiverhole 
+    4 > oftendiverhole 
+    w > wall 
+    X > bubblehole 
+
+LevelDescription
+Xww 3X422       3X
+ a  412a24 1a  2 a
+2w  2 3X2XX   44a3
+3aa1w2 34  w a  XX
+3 Xw2  1 21 a2a2  
+aw34 X 1a4144   11
+234w4Xa1  41222w a
+  X3 a3331 a434 14
+14a  X2 a41    14 
+14224 w    14XXwXA
+ a 14 2Xa3  2a12  
+32 X  31221 1a2 43
+ 43 Xa     4  X1a 
+a4w w1   24aw1  33
+   Xa   X 334w3X 3
+X1  3 a 12   X312X
+ XaaX X 1X     222
