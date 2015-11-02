@@ -11,6 +11,7 @@ public class Runner {
 	public static Random random;
 	public static int chosenGame;
 	public static ArrayList<String> games;
+	public static ArrayList<Boolean> tutorial;
 	public static String[] generators;
 	public static boolean mouseClick;
 	public static String firstGenerator;
@@ -23,8 +24,10 @@ public class Runner {
 		generators = new String[]{"randomLevelGenerator", "constructiveLevelGenerator", "geneticLevelGenerator"};
 		File[] files = new File("examples/games/").listFiles();
 		games = new ArrayList<String>();
+		tutorial = new ArrayList<Boolean>();
 		for(File f:files){
 			games.add(f.getName().substring(0, f.getName().lastIndexOf('.')));
+			tutorial.add(false);
 		}
 		random = new Random();
 		mouseClick = false;
@@ -45,18 +48,22 @@ public class Runner {
 			chosenGame = (chosenGame + random.nextInt(games.size() - 1) + 1) % games.size();
 			frame.setTitle(games.get(chosenGame));
 			
-			frame.tutorialLabel.setText(TutorialText.getTutorialText(games.get(chosenGame)));
-			frame.startButton.setText("Play " + games.get(Runner.chosenGame) + " Tutorial Level");
-			frame.pack();
-			frame.setVisible(true);
-			frame.setFocusable(true);
-			while(!mouseClick){
-				System.out.print("");
+			if(!tutorial.get(chosenGame)){
+				frame.tutorialLabel.setText(TutorialText.getTutorialText(games.get(chosenGame)));
+				frame.startButton.setText("Play " + games.get(Runner.chosenGame) + " Tutorial Level");
+				frame.pack();
+				frame.setVisible(true);
+				frame.setFocusable(true);
+				while(!mouseClick){
+					System.out.print("");
+				}
+				mouseClick = false;
+				frame.setVisible(false);
+				
+				playGoodDesignGame();
+				
+				tutorial.set(chosenGame, true);
 			}
-			mouseClick = false;
-			frame.setVisible(false);
-			
-			playGoodDesignGame();
 			
 			for(int i=0; i<playLevels; i++){
 				String temp;
