@@ -55,6 +55,7 @@ public class RunnerFrame extends JFrame{
 	    		.addComponent(tutorialLabel)
 	    		.addGap(20)
 	            .addComponent(startButton)
+	            .addGap(25)
 	    );
 	        
 	    pack(); 

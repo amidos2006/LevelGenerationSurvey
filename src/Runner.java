@@ -19,7 +19,7 @@ public class Runner {
 	
 	public static void main(String[] args){
 		numLevels = 5;
-		playLevels = 2;
+		playLevels = 4;
 		chosenGame = 0;
 		generators = new String[]{"randomLevelGenerator", "constructiveLevelGenerator", "geneticLevelGenerator"};
 		File[] files = new File("examples/games/").listFiles();
@@ -54,6 +54,7 @@ public class Runner {
 				frame.pack();
 				frame.setVisible(true);
 				frame.setFocusable(true);
+				frame.pack();
 				while(!mouseClick){
 					System.out.print("");
 				}

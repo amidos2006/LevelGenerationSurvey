@@ -94,7 +94,7 @@ public class SubmissionFrame extends JFrame{
 	
 	private void replyToGoogleForm(){
 		try {
-			String response = "entry.1407994238=" + Runner.chosenGame + 
+			String response = "entry.1407994238=" + Runner.games.get(Runner.chosenGame) + 
 					"&entry.845771917=" + Runner.firstGenerator + 
 					"&entry.1240824314=" + Runner.secondGenerator +
 					"&entry.720865890=" + getPreference() + 
